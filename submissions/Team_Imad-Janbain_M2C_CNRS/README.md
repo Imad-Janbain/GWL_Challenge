@@ -4,8 +4,11 @@ In this file the submission is described.
 
 ## Author(s)
 
-- Imad JANBAIN (M2C CNRS - University of Rouen) - imad.janbain@univ-rouen.fr
+- Imad JANBAIN (PhD student @ M2C CNRS - University of Rouen) - imad.janbain@univ-rouen.fr
 
+Supervisors:
+- Abderrahim JARDANI - abderrahim.jardani@univ-rouen.fr
+- Julien Deloffre - julien.deloffre@univ-rouen.fr
 ## Modeled locations
 
 We modelled the following locations (check modelled locations):
