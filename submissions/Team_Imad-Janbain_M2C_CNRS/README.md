@@ -31,7 +31,7 @@ The code contains several functions to accomplish the task.
 4- The fourth function evaluates the models on the training and validation data and saves the evaluation metrics (e.g., RMSE, MAE, MAPE) in a CSV file.
 5- The final function loads the saved files and uses them to make predictions and visualize the model's performance, including a 95% confidence interval.
 
-To facilitate tracking, the names of all files include the model name and the selected well location.
+To facilitate tracking, the names of all the saved files include the model name and the selected well location.
 
 ## Supplementary model data used
 
